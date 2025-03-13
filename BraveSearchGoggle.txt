@@ -1,7 +1,7 @@
 ! name: Remove Major Social Media
 ! description: Discards results from TikTok, Instagram, YouTube, LinkedIn, and Reddit.
 ! public: false
-! author: Scott Wylie
+! author: Scott W
 
 $discard,site=tiktok.com
 $discard,site=instagram.com
