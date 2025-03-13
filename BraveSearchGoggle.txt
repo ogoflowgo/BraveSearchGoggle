@@ -7,4 +7,4 @@ $discard,site=tiktok.com
 $discard,site=instagram.com
 $discard,site=youtube.com
 $discard,site=linkedin.com
-$discard,site=*.reddit.com
+$discard,site=reddit.com
