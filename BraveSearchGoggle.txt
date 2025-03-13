@@ -1,5 +1,5 @@
 ! name: Remove Major Social Media
-! description: Discards results from TikTok, Instagram, YouTube, LinkedIn, and Reddit.
+! description: Discards results from TikTok, Instagram, YouTube, LinkedIn, Reddit, and the shithole known as X.
 ! public: false
 ! author: Scott W
 
@@ -8,3 +8,4 @@ $discard,site=instagram.com
 $discard,site=youtube.com
 $discard,site=linkedin.com
 $discard,site=reddit.com
+$discard,site=x.com
